@@ -1,0 +1,17 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>COMFork</Name>
+  <DisplayName>COMFork</DisplayName>
+  <Description>COMFork client</Description>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2020-04-13</ReleaseDate>
+  <SortingPriority>40</SortingPriority>
+  <Checkable>false</Checkable>
+  <UpdateFile UncompressedSize="69769950" CompressedSize="17287785" OS="Any"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>3acd468f44813ac571b4e0e09797b896039b4e04</SHA1>
+ </PackageUpdate>
+</Updates>
