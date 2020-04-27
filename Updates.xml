@@ -6,12 +6,12 @@
   <Name>COMFork</Name>
   <DisplayName>COMFork</DisplayName>
   <Description>COMFork client</Description>
-  <Version>1.0.5</Version>
+  <Version>1.0.6</Version>
   <ReleaseDate>2020-04-13</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Checkable>false</Checkable>
-  <UpdateFile OS="Any" UncompressedSize="69772520" CompressedSize="17289096"/>
+  <UpdateFile OS="Any" CompressedSize="17289469" UncompressedSize="69772520"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>54f668ae7b8a0657a93d59992215ad52822de477</SHA1>
+  <SHA1>0205b1c416357ce4af4b93080e2fb5186138db2d</SHA1>
  </PackageUpdate>
 </Updates>
